@@ -141,7 +141,7 @@ with tf.Session() as sess:
 
         #errorP = error
         #error = error_validation
-        #if (abs(error_validation - errorP) < 0.5): 
+        #if (abs(error_validation - errorP) < 0.5):
          #   break
 
 
